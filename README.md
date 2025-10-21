@@ -38,7 +38,7 @@ jupyter notebook notebooks/fraud_dectection.ipynb
 
 ### 3. Open Dashboard
 
-Open dashboards/fraud_detection_dashboard.pbix in Power BI Desktop
+Open dashboard "C:\Users\misht\OneDrive\Fraud Detection & Risk Monitoring — Financial Transactions.pbix"
 
 ### 📈 Models Implemented
 
