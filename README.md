@@ -38,7 +38,7 @@ cd fraud-detection-system
 pip install -r requirements.txt
 
 #### 3. Run Analysis
-jupyter notebook notebooks/fraud_detection_analysis.ipynb
+jupyter notebook notebooks/fraud_dectection.ipynb
 
 ### 4. Open Dashboard
 
@@ -73,7 +73,8 @@ Open dashboards/fraud_detection_dashboard.pbix in Power BI Desktop
 - Interactive Dashboard: Hourly fraud rate, transaction types, alerts visualization
 
 ### 📄 Results (Sample)
-Model	Precision	Recall	F1-Score
-Isolation Forest	0.85	0.78	0.81
-AutoEncoder	0.82	0.85	0.83
-Random Forest	0.89	0.92	0.90
+| Model            | Precision | Recall | F1-Score |
+|-----------------|-----------|--------|----------|
+| Isolation Forest | 0.85      | 0.78   | 0.81     |
+| AutoEncoder      | 0.82      | 0.85   | 0.83     |
+| Random Forest    | 0.89      | 0.92   | 0.90     |
