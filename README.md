@@ -30,17 +30,13 @@ This project was completed as part of my internship at **Codec Technologies**. T
 - Models: Isolation Forest, AutoEncoder, Random Forest
 
 ### 🚀 Installation & Usage
-### 1. Clone Repository
-git clone https://github.com/Swati7135/fraud-detection-system.git
-cd fraud-detection-system
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 pip install -r requirements.txt
 
-#### 3. Run Analysis
+#### 2. Run Analysis
 jupyter notebook notebooks/fraud_dectection.ipynb
 
-### 4. Open Dashboard
+### 3. Open Dashboard
 
 Open dashboards/fraud_detection_dashboard.pbix in Power BI Desktop
 
